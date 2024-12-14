@@ -1,6 +1,6 @@
 # 🎭 Emotion Detection using OpenCV and MediaPipe
 
-![Thumbnail](https://your-thumbnail-link-here.com)  
+![Thumbnail](https://github.com/ahmadsabir786/emotion-detection-project/blob/main/20241214_121241.png?raw=true))  
 
 
 ## 📖 Project Overview
